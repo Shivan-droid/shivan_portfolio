@@ -1,1 +1,21 @@
-body {background-color: azure;}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cormorant+SC:wght@300;400;500;600;700&family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+body {background-color: rgb(182, 229, 229);}
+
+
+/*To style heading for the website*/
+
+
+. {margin: 20px;
+    font-family: 'Cormorant SC', serif; }
+
+
+    /*
+
+TO LINK FONT
+
+font-family: 'Cormorant', serif;
+font-family: 'Cormorant Infant', serif;
+font-family: 'Cormorant SC', serif;
+*/
